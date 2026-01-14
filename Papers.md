@@ -23,5 +23,5 @@
     - equipment grant from Intel gives Bias to using Intel's 45nm "Penryn" model as baseline processor
     - https://courses.grainger.illinois.edu/CS598JT/fa2020/reading_list/12b.pdf
 
-4) CACHE-CONSCIOUS THREAD SCHEDULING FOR MASSIVELY MULTITHREADED PROCESSORS
+4) Cache-Conscious Wavefront Scheduling & CACHE-CONSCIOUS THREAD SCHEDULING FOR MASSIVELY MULTITHREADED PROCESSORS, Timothy G. Rogers, published 2012/2013
     - https://engineering.purdue.edu/tgrogers/publication/rogers-toppicks-2013/rogers-toppicks-2013.pdf
