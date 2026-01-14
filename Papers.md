@@ -22,3 +22,6 @@
     - Assesses the varying combinations of increasing Ranks and memory controllers accessed from the L2 cache
     - equipment grant from Intel gives Bias to using Intel's 45nm "Penryn" model as baseline processor
     - https://courses.grainger.illinois.edu/CS598JT/fa2020/reading_list/12b.pdf
+
+4) CACHE-CONSCIOUS THREAD SCHEDULING FOR MASSIVELY MULTITHREADED PROCESSORS
+    - https://engineering.purdue.edu/tgrogers/publication/rogers-toppicks-2013/rogers-toppicks-2013.pdf
