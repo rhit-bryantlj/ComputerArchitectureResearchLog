@@ -29,3 +29,5 @@
   
 5) Efficient Instruction Scheduling for a Pipelined Architecture, Phillip B. Gibbons & Stephen S. Muchnick, published 1984
     - https://dl.acm.org/doi/abs/10.1145/12276.13312 (pdf available on acm)
+6) Performance from Architecture: comaring a RISC and a CISC with Similar Hardware Organization, Dileep Bhandarkar, doublas W. Clark
+    - https://dl.acm.org/doi/10.1145/106972.107003
