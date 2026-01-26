@@ -29,5 +29,14 @@
   
 5) Efficient Instruction Scheduling for a Pipelined Architecture, Phillip B. Gibbons & Stephen S. Muchnick, published 1984
     - https://dl.acm.org/doi/abs/10.1145/12276.13312 (pdf available on acm)
+      
 6) Performance from Architecture: comaring a RISC and a CISC with Similar Hardware Organization, Dileep Bhandarkar, doublas W. Clark
     - https://dl.acm.org/doi/10.1145/106972.107003
+      
+7) VLSI Implementation of Early Branch Prediction Circuits for High Performance Computing, Aamir A. Farooqui, Vojin G. Oklobdzija, pub 1999
+    - https://www.cecs.uci.edu/~papers/compendium94-03/papers/1999/glsvlsi99/pdffiles/glsvlsi99_030.pdf
+
+8) Dark Silicon and the end of multicore scaling, Hadi Esmaeilzadeh, Emily Blem, Renée St. Amant, Karthikeyan Sankaralingam, Doug Burger
+    - published 2014
+    - 
+    - https://dl.acm.org/doi/10.1145/2000064.2000108
