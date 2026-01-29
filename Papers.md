@@ -40,3 +40,7 @@
     - published 2014
     - 
     - https://dl.acm.org/doi/10.1145/2000064.2000108
+9) Parallel Processing: A Smart Compiler and a Dumb Machine, Joseph A. Fisher, John R. Ellis, John C. Ruttenberg, and Alexandru Nicolau
+    - published 1984
+  
+    - http://aggregate.ee.engr.uky.edu/EE685/vliwpaper.pdf
