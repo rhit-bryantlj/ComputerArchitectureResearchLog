@@ -44,3 +44,6 @@
     - published 1984
   
     - http://aggregate.ee.engr.uky.edu/EE685/vliwpaper.pdf
+10) Investigating the Cause and Effect of an AMD Zen Energy Management Anomaly
+    - published 2021
+    - https://research.spec.org/icpe_proceedings/2021/companion/p103.pdf
