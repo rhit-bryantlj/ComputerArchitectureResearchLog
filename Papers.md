@@ -47,3 +47,5 @@
 10) Investigating the Cause and Effect of an AMD Zen Energy Management Anomaly
     - published 2021
     - https://research.spec.org/icpe_proceedings/2021/companion/p103.pdf
+11) Multi-threaded Game Engine design, James Tulip, James Bekkema, Keith Nesbitt
+    - https://www.researchgate.net/profile/Keith-Nesbitt/publication/228624380_Multi-threaded_game_engine_design/links/09e41511426d2d1fc6000000/Multi-threaded-game-engine-design.pdf
