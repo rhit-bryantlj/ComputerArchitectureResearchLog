@@ -51,3 +51,5 @@
     - https://www.researchgate.net/profile/Keith-Nesbitt/publication/228624380_Multi-threaded_game_engine_design/links/09e41511426d2d1fc6000000/Multi-threaded-game-engine-design.pdf
 12) Architecture-Aware Optimization Targeting Multithreaded Stream Computing
     - https://dl.acm.org/doi/abs/10.1145/1513895.1513903
+13) Characterizing the Runtime Effects of Object-Oriented Workloads on GPUs, Mengchi Zhang, Roland Green, Timothy G. Rogers, published 2018
+    - https://engineering.purdue.edu/tgrogers/publication/zhang-ispass-poster-2018/zhang-ispass-poster-2018.pdf
