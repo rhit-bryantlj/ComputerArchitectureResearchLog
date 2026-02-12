@@ -53,3 +53,5 @@
     - https://dl.acm.org/doi/abs/10.1145/1513895.1513903
 13) Characterizing the Runtime Effects of Object-Oriented Workloads on GPUs, Mengchi Zhang, Roland Green, Timothy G. Rogers, published 2018
     - https://engineering.purdue.edu/tgrogers/publication/zhang-ispass-poster-2018/zhang-ispass-poster-2018.pdf
+14) Architecture Design of Reconfigurable Pipelined Datapaths
+    - https://www.researchgate.net/publication/2412057_Architecture_Design_of_Reconfigurable_Pipelined_Datapaths
