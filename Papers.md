@@ -55,3 +55,7 @@
     - https://engineering.purdue.edu/tgrogers/publication/zhang-ispass-poster-2018/zhang-ispass-poster-2018.pdf
 14) Architecture Design of Reconfigurable Pipelined Datapaths
     - https://www.researchgate.net/publication/2412057_Architecture_Design_of_Reconfigurable_Pipelined_Datapaths
+15) Improving the energy efficiency of big cores, Kenneth Czechowski, Et al., pub June 2014
+    - https://dl.acm.org/doi/abs/10.1145/2678373.2665743
+17) The Energy Efficiency of Modern Multicore Systems, Dumitrel Loghin, Yong Meng Teo, pub August 2018
+    - https://dl.acm.org/doi/abs/10.1145/3229710.3229714
